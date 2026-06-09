@@ -1,2 +1,2 @@
-# Simple-Portfolio-Website
-My to become a IAS Officer but at the same time I have interest in the both software and hardware .This is first portfolio website which was created my with the guidance of EMC or Error Makes Clever taught .This increase my confidence to do many this like this and to study  more like this and i want to upgrade my skills more .
+My aim is to become an IAS officer, but at the same time, I am interested in both software and hardware. This is my first portfolio website, which I created with the guidance of EMC (Error Makes Clever). This has increased my confidence to build many more projects like this and motivated me to study further and improve my skills.
+
