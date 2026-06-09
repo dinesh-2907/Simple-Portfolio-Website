@@ -1,0 +1,131 @@
+
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+     font-family: "Young Serif", serif;
+}
+.container{
+    padding: 50px;
+}
+.section{
+    background-color: black;
+    color: white;
+    padding:20px;
+    
+}
+.section__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: orangered solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    display:inline-block;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.section__name{
+    font-size: 50px;
+}
+.section__description{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.section-two,.section-three,.section-four,.section-five,.section-six{
+    margin-top: 20px;
+}
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc,.section-six__desc{
+    margin-top: 20px;
+}
+.section-three li,.section-four li,.section-five li{
+    list-style: none;
+}
+.section-three{
+    display: inline-block;
+    background-color: #6462fd;
+    padding: 40px;
+    width: 200px;
+    height:150px;
+    border-radius: 20px;
+   
+   
+}
+.section-four{
+    display:inline-block;
+    background-color: rebeccapurple;
+    padding: 40px;
+     width: 200px;
+    height:150px;
+    border-radius: 20px;
+    vertical-align: top;
+}
+.section-five{
+    display: block;
+    background-color: #FE7517;
+   padding: 40px;
+    border-radius: 20px;
+     vertical-align: top;
+
+}
+.section-six{
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 20px;
+     border-radius: 20px;
+}
+
+.cont-one{
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+.cont-three{
+    background-color: black;
+    color:white;
+    padding: 20px;
+    margin-top: 40px;
+    
+}
+.cont-one__link{
+    background-color: orangered;
+     padding-left: 10px;
+    padding-right: 10px;
+    display:inline-block;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+    text-decoration: none;  
+}
+.cont-one__title,.cont-one__desc{
+    font-size: 40px;
+    margin-top: 10px;
+   
+}
+.cont-two{
+    margin-top: 20px;
+}
+.cont-two__input,.cont-two__textarea,.cont-two__submit{
+    margin-top: 10px;
+}
+.cont-two__input{
+    padding:10px;
+    border:none;
+    border-bottom: solid black 1px;
+}
+.cont-two__textarea{
+    padding:10px;
+    border:none;
+    border-bottom: solid black 1px;
+}
+.cont-two__submit{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color:black;
+    background-color: orangered;
+    border: none;
+}
